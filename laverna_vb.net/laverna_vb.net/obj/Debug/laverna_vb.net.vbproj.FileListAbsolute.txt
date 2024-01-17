@@ -1,0 +1,10 @@
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\bin\Debug\laverna_vb.net.exe.config
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\bin\Debug\laverna_vb.net.exe
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\bin\Debug\laverna_vb.net.pdb
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.vbprojResolveAssemblyReference.cache
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.Dashboard.resources
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.Resources.resources
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.Welcome.resources
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.vbproj.GenerateResource.Cache
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.exe
+C:\laragon\www\GITHUB35\laverna_vb.net\laverna_vb.net\laverna_vb.net\obj\Debug\laverna_vb.net.pdb
